@@ -9,7 +9,8 @@ function App() {
     style={{backgroundColor: color}}
     >
       <h1 className="text-center font-bold text-5xl mt-0.5">Darshit Patel With React</h1>
-       <h5 className="text-center font-bold  mt-5">@darshitpatel_23</h5>
+       <h3 className="text-center font-bold  mt-5">@darshitpatel_23</h3>
+       <h5 className="text-center font-bold  mt-5">+91 8347402205</h5>
       <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
         <div className="flex flex-wrap justify-center gap-7 shadow-lg bg-white px-3 py-2 rounded-3xl">
        
